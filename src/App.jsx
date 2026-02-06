@@ -2,10 +2,10 @@ import { useState } from 'react'
 
 import './App.css'
 import Section1 from './components/section1/Section1.jsx'
-import Section2 from './components/section2/section2.jsx'
-import Section3 from './components/section3/section3.jsx'
+import Section2 from './components/section2/Section2.jsx'
+import Section3 from './components/section3/Section3.jsx'
 import Section4 from './components/section4/Section4.jsx'
-import Section5 from './components/section5/section5.jsx'
+import Section5 from './components/section5/Section5.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
