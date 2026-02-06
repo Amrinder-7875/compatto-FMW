@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="relative h-[500px] md:h-[600px] lg:h-[700px] overflow-hidden">
           <img 
             className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700" 
-            src="src/assets/hero-image.jpg" 
+            src="https://static.vecteezy.com/system/resources/thumbnails/012/604/459/small/interior-design-concept-sale-of-home-decorations-and-furniture-during-promotions-and-discounts-3d-photo.jpg" 
             alt="Luxury hotel furnishing" 
           />
           {/* Gradient Overlay */}
