@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
-import Section1 from './components/section1/Section1.jsx'
+import Section1 from './components/section/Section1.jsx'
 import Section2 from './components/section2/Section2.jsx'
 import Section3 from './components/section3/Section3.jsx'
 import Section4 from './components/section4/Section4.jsx'
