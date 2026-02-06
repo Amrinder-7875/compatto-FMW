@@ -111,7 +111,7 @@ const WhoWeAre = () => {
             {/* Main Image Container */}
             <div className="relative rounded-3xl overflow-hidden shadow-2xl group">
               <img 
-                src="src/assets/whoWeAre.jpg" 
+                src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTny7V93DLxxB9C7KFyDVnUwxsURvjWe7NlDSZ9WVmAZhqNyJc" 
                 alt="Compatto - Luxury Furniture Solutions" 
                 className="w-full h-[500px] md:h-[600px] object-cover transform group-hover:scale-105 transition-transform duration-700"
               />
