@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200..700&display=swap');
+
+
+@theme{
+    --color-offwhite: rgb(255, 240, 213);
+    --color-brown: rgb(163, 129, 96);
+    --font-bebas: "Bebas Neue", sans-serif;
+    --radius-5xl:50px;
+    --font-6xl:3rem:
+    --font-oswald: 'Oswald', sans-serif;
+}
