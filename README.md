@@ -1,16 +1,66 @@
-# React + Vite
-checkout here:-https://compatto-amrinder.netlify.app/
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Compatto — Furniture Landing Page
 
-Currently, two official plugins are available:
+A responsive, multi-section landing page built with React for **Compatto**, 
+a luxury hotel furnishing company operating in Greece and Cyprus.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This was my **first React project**, focused on practising component-based 
+architecture, layout design, and responsive UI without any backend.
 
-## React Compiler
+🔗 **Live Demo:** https://compatto-fmw.vercel.app/
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Preview
+<img width="1710" height="956" alt="Screenshot 2026-05-01 at 1 00 56 PM" src="https://github.com/user-attachments/assets/d9889797-0395-4ae0-a28c-0a2fa33056a7" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- React (Vite)
+- JavaScript (ES6+)
+- CSS / Tailwind (whichever you used)
+- Deployed on Vercel
+
+---
+
+## 📄 Pages & Sections
+
+- **Hero** — Full-screen banner with headline, CTA button, and key stats
+- **About Us** — Company overview and numbers (150+ suppliers, 15+ years)
+- **Our Process** — 4-step furnishing process walkthrough
+- **Why Choose Us** — Feature cards highlighting key value propositions
+- **Services** — Bespoke furniture and end-to-end solutions
+- **CTA Section** — Full-width call-to-action with contact prompt
+- **Footer** — Navigation, newsletter subscription input, contact info
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/Amrinder-7875/compatto-FMW
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+---
+
+## 📚 What I Learned
+
+- Structuring a React app into reusable components
+- Building multi-section layouts from a design reference
+- Responsive design using CSS/Flexbox/Grid
+- Deploying a React app to Vercel
+
+---
+
+## ⚠️ Note
+
+This is a **frontend-only** project — no backend or real form submission. 
+Built purely to practise React fundamentals and UI layout skills.
